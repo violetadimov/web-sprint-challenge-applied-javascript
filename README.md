@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+It is a programing interface for HTML document that allow program to read and manipulate the page content, structure and style.
+
 2. What is an event?
+
+It is every user interaction with a site, such as  moving the mouse, scrolling the page, pressing a key on the keyboard.
 
 3. What is an event listener?
 
+It is a programming function that waits for an event to occur
+
 4. Why would we convert a NodeList into an Array?
 
+Nodelists are not JS API, they're a browser API.and they do not have all JS functionality such as array iteration and prototype methods
+
 5. What is a component?
+
+It is a small reusable set of logic, behaviors and inteface element.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
